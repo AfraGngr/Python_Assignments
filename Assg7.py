@@ -1,4 +1,4 @@
-num = list(range(101))
+num = list(range(1, 101))
 
 for i in num:
     
